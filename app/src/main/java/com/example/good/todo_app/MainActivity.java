@@ -379,8 +379,7 @@ public class MainActivity extends Activity {
 
                             else if (item.getItemId() == R.id.Edit) {
                                 Toast.makeText(getApplicationContext(), "Editting",Toast.LENGTH_LONG).show();
-                                // Intent i =  new Intent();
-                                // startActivity(i);
+                                
                             }
 
                             return false;
